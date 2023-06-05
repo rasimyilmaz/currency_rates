@@ -1,5 +1,1 @@
-40 17 * * 2 /home/pi/Desktop/currency_rates/get_currency_rates.sh >/dev/null 2>&1
-40 17 * * 3 /home/pi/Desktop/currency_rates/get_currency_rates.sh >/dev/null 2>&1
-40 17 * * 4 /home/pi/Desktop/currency_rates/get_currency_rates.sh >/dev/null 2>&1
-40 17 * * 5 /home/pi/Desktop/currency_rates/get_currency_rates.sh >/dev/null 2>&1
-40 17 * * 6 /home/pi/Desktop/currency_rates/get_currency_rates.sh >/dev/null 2>&1
+40 17 * * 2-6 /var/www/html/currency_rates/get_currency_rates.sh >/dev/null 2>&1
