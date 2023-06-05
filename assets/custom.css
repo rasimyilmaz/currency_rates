@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* CSS Document */
+
+span.flags img {
+   margin-left: -19px;
+margin-top: -62px;
+}
+span.flags {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 52px;
+    height: 52px;
+    float: left;
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.28);
+	margin-top: 26px;
+}
+span.kur {
+	line-height: 52px;
+	margin-left: 15px;
+}
+span.logo{
+padding-bottom: 30px;
+padding-top: 30px;
+	width: 20%;
+}
+span.date{
+    margin: auto;
+    text-align: right;
+    float: right;
+    width: 80%;
+    font-size: 2rem;
+    font-weight: 300;
+}
+.table td {
+	vertical-align: middle;
+}
+.table-dark {
+    color: #fff;
+    background-color: black;
+}
+body {
+	background-image:url(bg4.jpg);
+	font-size: 3.2rem;
+font-weight: 500;
+line-height: 2.0;
+}
