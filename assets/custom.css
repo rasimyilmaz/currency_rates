@@ -2,8 +2,8 @@
 /* CSS Document */
 
 span.flags img {
-   margin-left: -19px;
-margin-top: -62px;
+	margin-left: -19px;
+	margin-top: -62px;
 }
 span.flags {
     border-radius: 50%;
@@ -39,7 +39,7 @@ span.date{
     background-color: black;
 }
 body {
-	background-image:url(bg4.jpg);
+	background-image:url(background.jpg);
 	font-size: 3.2rem;
 font-weight: 500;
 line-height: 2.0;
