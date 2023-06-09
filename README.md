@@ -5,5 +5,5 @@ sudo chown pi:pi currency_rates -R
 sudo chmod +x currency_rates/get_currency_rates.sh
 sudo apt install apache2
 sudo update-rc.d apache2 defaults
-sudo usermod -a -G www-data pi__
+sudo usermod -a -G www-data pi
 currency.desktop file location is ~/.config/autostart
