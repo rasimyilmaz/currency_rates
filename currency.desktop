@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=Currency
+Exec=chromium-browser "http://localhost/currency_rates" --start-fullscreen
