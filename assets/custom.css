@@ -23,13 +23,8 @@ padding-bottom: 30px;
 padding-top: 30px;
 	width: 20%;
 }
-span.date{
-    margin: auto;
-    text-align: right;
-    float: right;
-    width: 80%;
-    font-size: 2rem;
-    font-weight: 300;
+p.loved-size {
+        font-size:0.69em;
 }
 .table td {
 	vertical-align: middle;
